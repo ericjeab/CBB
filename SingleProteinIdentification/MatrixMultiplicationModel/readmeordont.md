@@ -1,0 +1,4 @@
+Matrix Multiplication Model for Nanopore Signal Prediction: 
+$\text{Signal} = T \cdot X \cdot w$, where T is a Toeplitz Matrix and is used for convolution, X is the feature vector and w are the weights.
+
+Important is to keep the json file structure as in the example. 
