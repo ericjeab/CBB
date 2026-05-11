@@ -1,0 +1,13 @@
+{
+    "local":{
+        "charge": 1.0, 
+    "volume_a3": 1.0, 
+    "dipole_moment_d": 1.0 , 
+    "polarizability_a3": 1.0, 
+    "hydropathy_index": 1.0
+    },
+    "global":{
+        "flexibility": 1000.0
+    }
+      
+}
